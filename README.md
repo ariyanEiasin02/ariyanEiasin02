@@ -21,5 +21,5 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 
 ### 📫 How to reach me:
 - [Portfolio](YourPortfolioLink)
-- [LinkedIn](YourLinkedInLink)
+- [LinkedIn](https://www.linkedin.com/in/ariyan-eiasin-88725b27b/)
 - [Twitter](YourTwitterLink)
