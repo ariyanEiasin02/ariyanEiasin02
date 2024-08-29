@@ -1,15 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ariyan Eiasin 👋
 
-<!--
-**ariyanEiasin02/ariyanEiasin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and experienced Front-End Web Developer with over two years of experience, specializing in delivering high-quality, responsive, and visually appealing websites that meet 100% client satisfaction.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning advanced React patterns and TypeScript.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about Front-End Development, React, JavaScript, and more.
+- ⚡ Fun fact: I love solving coding challenges on LeetCode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Skills
+
+- **Languages:** HTML5, CSS3, JavaScript, jQuery
+- **Frameworks & Libraries:** React, Redux Toolkit, Bootstrap, Tailwind CSS
+- **Tools & Platforms:** Git, Firebase
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+### 📫 How to reach me:
+- [Portfolio](YourPortfolioLink)
+- [LinkedIn](YourLinkedInLink)
+- [Twitter](YourTwitterLink)
