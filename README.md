@@ -20,6 +20,6 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ### 📫 How to reach me:
-- [Portfolio](YourPortfolioLink)
+- [Portfolio](https://portfolio-eiasin.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/ariyan-eiasin-88725b27b/)
-- [Twitter](YourTwitterLink)
+- [Facebook](https://www.facebook.com/ariyan.abara/)
