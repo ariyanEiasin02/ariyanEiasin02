@@ -17,7 +17,7 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](JavaScript)
 
 ### 📫 How to reach me:
 - [Portfolio](https://portfolio-eiasin.netlify.app/)
