@@ -19,8 +19,10 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 <h3>Tools & Platforms</h3>
 <p>Git</p>
 <p>Firebase</p>
+<h2>📊 GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight"/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+<h2>🏆 Top Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight"/>
 
 
 📫 How to reach me:
