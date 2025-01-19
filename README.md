@@ -1,5 +1,5 @@
-Hi there, I'm Ariyan Eiasin 👋
-I'm a passionate and experienced Front-End Web Developer with over two years of experience, specializing in delivering high-quality, responsive, and visually appealing websites tailored to ensure 100% client satisfaction.
+<h1>**Hi there, I'm Ariyan Eiasin 👋**</h1>
+I'm a passionate and experienced Front-End Web Developer with over two years of experience, dedicated to crafting high-quality, responsive, and visually appealing websites that guarantee 100% client satisfaction.
 
 🌱 Currently learning: Advanced React patterns and TypeScript
 👯 Open to collaborate: On open-source projects
