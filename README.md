@@ -23,10 +23,12 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight"/>
 <h2>🏆 Top Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight"/>
-
+<h3>### 🏆 Key Languages & Frameworks </h3> 
+- 🟨 **JavaScript**: 🛠️ ES6+, Fetch API, Async programming  
+- ⚛️ **React**: 🚀 Hooks, Context API, Redux Toolkit
 
 <h2>📫 How to reach me:</h2>
-<a href="https://portfolio-eiasin.netlify.app/">🌐 Portfolio</a>
-💼 LinkedIn
-📘 Facebook
-✨ Fiverr
+<p><a href="https://portfolio-eiasin.netlify.app/">🌐 Portfolio</a></p>
+<p><a href="https://www.linkedin.com/in/md-eiasin-88725b27b/">💼 LinkedIn</a></p>
+<p><a href="https://www.facebook.com/ariyan.eiasin56/">📘 Facebook</a></p>
+<p><a href="https://www.fiverr.com/s/P26b4eo">✨ Fiverr</a></p>
