@@ -25,8 +25,8 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight"/>
 
 
-📫 How to reach me:
-🌐 Portfolio
+<h2>📫 How to reach me:</h2>
+<a href="https://portfolio-eiasin.netlify.app/">🌐 Portfolio</a>
 💼 LinkedIn
 📘 Facebook
 ✨ Fiverr
