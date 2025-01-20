@@ -24,7 +24,7 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 <h2>🏆 Top Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight"/>
 <h3>### 🏆 Key Languages & Frameworks </h3> 
-<p>- 🟨 **JavaScript**: 🛠️ ES6+, Fetch API, Async programming</p>  
+<p><strong >- 🟨 **JavaScript**:</strong> 🛠️ ES6+, Fetch API, Async programming</p>  
 <p>- ⚛️ **React**: 🚀 Hooks, Context API, Redux Toolkit</p>
 
 <h2>📫 How to reach me:</h2>
