@@ -25,7 +25,7 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight"/>
 <h3>### 🏆 Key Languages & Frameworks </h3> 
 <p><strong >- 🟨 **JavaScript**:</strong> 🛠️ ES6+, Fetch API, Async programming</p>  
-<p>- ⚛️ **React**: 🚀 Hooks, Context API, Redux Toolkit</p>
+<p><strong >- ⚛️ **React**:</strong> 🚀 Hooks, Context API, Redux Toolkit</p>
 
 <h2>📫 How to reach me:</h2>
 <p><a href="https://portfolio-eiasin.netlify.app/">🌐 Portfolio</a></p>
