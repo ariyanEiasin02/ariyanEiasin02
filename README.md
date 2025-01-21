@@ -12,7 +12,7 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 <p>JavaScript</p>
 <p>jQuery</p>
 <h3>Frameworks & Libraries</h3>
-<p>React</p>
+<p>React,Next js</p>
 <p>Redux Toolkit</p>
 <p>Bootstrap</p>
 <p>Tailwind CSS</p>
