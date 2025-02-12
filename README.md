@@ -20,6 +20,7 @@ I'm a passionate and experienced Front-End Web Developer with over two years of 
 <p>Git</p>
 <p>Firebase</p>
 <h2>📊 GitHub Stats</h2>
+![ariyanEiasin02's Stats](https://github-readme-stats.vercel.app/api?username=ariyanEiasin02&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight"/>
 <h2>🏆 Top Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight"/>
