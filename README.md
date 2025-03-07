@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 I’m currently working on React-based Web Applications & Fiverr Projects<br>👯 I’m looking to collaborate on Open-source React & Tailwind CSS projects<br>🤝 I’m looking for help with advanced Firebase authentication & real-time databases<br>🌱 I’m currently learning Next.js, WebRTC, and advanced JavaScript algorithms<br>💬 Ask me about Front-end Development, React, Tailwind CSS, and Firebase<br>⚡ Fun fact: I love solving complex coding puzzles & optimizing performance!
+🔥 I’m currently working on <strong>React-based Web Applications & Fiverr Projects</strong ><br>👯 I’m looking to collaborate on Open-source React & Tailwind CSS projects<br>🤝 I’m looking for help with advanced Firebase authentication & real-time databases<br>🌱 I’m currently learning Next.js, WebRTC, and advanced JavaScript algorithms<br>💬 Ask me about Front-end Development, React, Tailwind CSS, and Firebase<br>⚡ Fun fact: I love solving complex coding puzzles & optimizing performance!
 
 
 ## 🌐 Socials:
