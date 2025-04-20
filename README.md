@@ -1,3 +1,5 @@
+![ChatGPT Image Apr 20, 2025, 01_25_17 PM](https://github.com/user-attachments/assets/766b3ce7-5b9c-42f2-adaa-7db8addb59ca)
+
 # 💫 About Me:
 🔥 I’m currently working on <strong>React-based Web Applications & Fiverr Projects</strong ><br>👯 I’m looking to collaborate on <strong >Open-source React & Tailwind CSS projects</strong ><br>🤝 I’m looking for help with <strong>advanced Firebase authentication & real-time databases</strong><br>🌱 I’m currently learning <strong>Next.js, WebRTC, and advanced JavaScript algorithms</strong><br>💬 Ask me about <strong>Front-end Development, React, Tailwind CSS, and Firebase</strong><br>⚡ Fun fact: <strong>I love solving complex coding puzzles & optimizing performance!</strong>
 
