@@ -3,7 +3,6 @@
 # 💫 About Me:
 I’m currently working on <strong>React-based Web Applications & Fiverr Projects</strong ><br>👯 I’m looking to collaborate on <strong >Open-source React & Tailwind CSS projects</strong ><br>🤝 I’m looking for help with <strong>advanced Firebase authentication & real-time databases</strong><br>🌱 I’m currently learning <strong>Next.js, WebRTC, and advanced JavaScript algorithms</strong><br>💬 Ask me about <strong>Front-end Development, React, Tailwind CSS, and Firebase</strong><br>⚡ Fun fact: <strong>I love solving complex coding puzzles & optimizing performance!</strong>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eiasin-front-end/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ComputerCoding56) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Ariyan-Eiasin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ariyaneiasin@gmail.com) 
 
