@@ -1,5 +1,4 @@
-![GitHub Header](https://github.com/user-attachments/assets/68236fc5-54fb-4d53-8603-920dc1a2982b)
-
+![GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:F24E1E&height=220&section=header&text=Md.%20Eiasin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(MERN%20Stack)&descAlignY=58&descAlign=50)
 # 💫 About Me:
 I’m currently working on <strong>React-based Web Applications & Fiverr Projects</strong ><br>👯 I’m looking to collaborate on <strong >Open-source React & Tailwind CSS projects</strong ><br>🤝 I’m looking for help with <strong>advanced Firebase authentication & real-time databases</strong><br>🌱 I’m currently learning <strong>Next.js, WebRTC, and advanced JavaScript algorithms</strong><br>💬 Ask me about <strong>Front-end Development, React, Tailwind CSS, and Firebase</strong><br>⚡ Fun fact: <strong>I love solving complex coding puzzles & optimizing performance!</strong>
 
