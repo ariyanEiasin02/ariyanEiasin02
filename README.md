@@ -1,6 +1,12 @@
 ![GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:F24E1E&height=220&section=header&text=Md.%20Eiasin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(MERN%20Stack)&descAlignY=58&descAlign=50)
 # 💫 About Me:
-I’m currently working on <strong>React-based Web Applications & Fiverr Projects</strong ><br>👯 I’m looking to collaborate on <strong >Open-source React & Tailwind CSS projects</strong ><br>🤝 I’m looking for help with <strong>advanced Firebase authentication & real-time databases</strong><br>🌱 I’m currently learning <strong>Next.js, WebRTC, and advanced JavaScript algorithms</strong><br>💬 Ask me about <strong>Front-end Development, React,Next js, Tailwind CSS, and Firebase</strong><br>⚡ Fun fact: <strong>I love solving complex coding puzzles & optimizing performance!</strong>
+💼 I’m currently working on <strong>MERN Stack Web Applications and Freelance Projects</strong><br>
+🚀 I’m looking to collaborate on <strong>MERN, Next.js, TypeScript & Open-source projects</strong><br>
+🤝 I’m looking for opportunities to contribute to <strong>Real-world Full-Stack Web Applications</strong><br>
+🌱 I’m currently learning <strong>Advanced Backend Development, Node.js & Data Structures & Algorithms</strong><br>
+💬 Ask me about <strong>React, Next.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB & REST APIs</strong><br>
+⚡ Fun fact: <strong>I enjoy solving complex DSA problems, building scalable applications, and optimizing web performance!</strong>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eiasin-front-end/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ComputerCoding56) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Ariyan-Eiasin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ariyaneiasin@gmail.com) 
